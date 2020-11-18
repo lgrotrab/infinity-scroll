@@ -40,21 +40,21 @@ h1 {
 /* image container */
 
 .image-container {
-  margin: 0.5rem 30%;
+  margin: 10px 30%;
 }
 
 .image-container img {
   width: 100%;
-  margin-top: 0.25;
+  margin-top: 5px;
 }
 
 /* Media Query: Large Smartphone*/
 
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 1rem;
+    font-size: 20px;
   }
   .image-container {
-    margin: 0.5rem;
+    margin: 10px;
   }
 }
